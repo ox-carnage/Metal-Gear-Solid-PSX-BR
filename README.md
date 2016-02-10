@@ -11,7 +11,7 @@ Foi retraduzido os diálogos do Codec com base da Guerra Fria, todos os textos e
 Os textos estão sendo traduzidos por ordem cronológica da série Metal Gear, para melhor entendimento da saga.
 
 Versão 1.0.3<br>
-Recentemente coma ajuda dos amigos #Anime Word e #Denim, foi localizado e extraído a fonte do jogo, sendo agora possível a sua edição.<br>
+Recentemente coma ajuda dos amigos # Anime Word # e # Denim, foi localizado e extraído a fonte do jogo, sendo agora possível a sua edição.<br>
 Foi corrigido o bug que impedia o progresso na fase do Heliporto<br>
 Adicionado frases e poemas de Confúcio e William Shakespeare, em frases ditas pela Mei Ling 
 
