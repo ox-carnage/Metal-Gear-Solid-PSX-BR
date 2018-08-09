@@ -1,0 +1,1187 @@
+c584a Size: 0040
+000c584a
+[8865][2033][0000]
+Snake, can you turn your neck?[80][23][80][4e]
+Take a look around.[00][0000]
+
+Bloco: 000c5891 Size: 001d
+000c5891
+[8865][2033][0000]
+[96][01][96][02][96][03][96][04][96][05][96][04][96][06][96][07][96][08][00][0000]
+
+Bloco: 000c59fb Size: 00c6
+000c59fb
+[8865][2033][0000]
+Snake, you have to crawl to get[80][23][80][4e]
+through there.[00][01ff]
+[8865][2033][0000]
+First crouch down by pressing the[80][23][80][4e]
+Crawl Button and then use the[80][23][80][4e]
+Directional button to crawl in the[80][23][80][4e]
+direction you want.[00][ff00]
+
+Bloco: 000c5af4 Size: 0066
+000c5af4
+[7594][f321][0400]
+Be careful though. Crawling is slow[80][23][80][4e]
+and you can't attack when you're[80][23][80][4e]
+doing it either.[00][06ff]
+
+Bloco: 000c5b6e Size: 0042
+000c5b6e
+[8865][2033][0400]
+You can stand up by pressing the[80][23][80][4e]
+Crawl Button again.[00][40ff]
+
+Bloco: 000c63cf Size: 004d
+000c63cf
+[8865][2033][0000]
+Snake, there's an elevator there you[80][23][80][4e]
+can take up to the ground.[00][ff00]
+
+Bloco: 000c644d Size: 0065
+000c644d
+[8865][2033][0000]
+You'll just have to wait for the elevator[80][23][80][4e]
+to come down. You'd better hide[80][23][80][4e]
+somewhere.[00][0000]
+
+Bloco: 000c64c4 Size: 008b
+000c64c4
+[8865][2033][0000]
+Get on the elevator. It should take you[80][23][80][4e]
+right to the front of the Nuclear[80][23][80][4e]
+Weapon Disposal Facility.[80][23][80][4e]
+Be careful, though.[00][0000]
+
+Bloco: 000c657d Size: 0069
+000c657d
+[8865][2033][0000]
+Snake, don't run over puddles.[80][23][80][4e]
+The splashing sound might alert your[80][23][80][4e]
+enemies. Be careful.[00][0000]
+
+Bloco: 000c6999 Size: 00b9
+000c6999;000c6cdd;00113cd1
+[8865][2033][0000]
+Snake, don't forget this is a covert[80][23][80][4e]
+operation. There are lots of bad guysó80][23][80][4e]
+and only one of you.[00][01ff]
+[8865][2033][0000]
+If you're spotted, you'll be surrounded[80][23][80][4e]
+before you know it.[00][ff00]
+
+Bloco: 000c6a72 Size: 002c
+000c6a72;000c6db6;00113daa
+[7594][f321][0400]
+If that happens, you're finished.[00][ff00]
+
+Bloco: 000c6abe Size: 0078
+000c6abe;000c6e02
+[8865][2033][0400]
+First go to the elevator in the back[80][23][80][4e]
+and take it up to the ground floor.[80][23][80][4e]
+Then look for the DARPA Chief.[00][ff00]
+
+Bloco: 000c6b64 Size: 00b9
+000c6b64;000c6ea8
+[8865][2033][0000]
+Snake, don't forget this is a covert[80][23][80][4e]
+operation. There are lots of bad guysó80][23][80][4e]
+and only one of you.[00][01ff]
+[8865][2033][0000]
+If you're spotted, you'll be surrounded[80][23][80][4e]
+before you know it.[00][0000]
+
+Bloco: 000c6c30 Size: 0078
+000c6c30;000c6f74
+[8865][2033][0000]
+First go to the elevator in the back[80][23][80][4e]
+and take it up to the ground floor.[80][23][80][4e]
+Then look for the DARPA Chief.[00][0000]
+
+Bloco: 000cb72e Size: 006a
+000cb72e
+[8865][2033][0000]
+Snake, they're using a searchlight to[80][23][80][4e]
+sweep the area. Make sure you stay[80][23][80][4e]
+out of the beam.[00][0000]
+
+Bloco: 000cb7c6 Size: 0086
+000cb7c6
+[8865][2033][0000]
+There's no turning back now, Snake.[80][23][80][4e]
+You've got a job to do and you're our[80][23][80][4e]
+only hope. The world is counting onó80][23][80][4e]
+you.[00][0000]
+
+Bloco: 000cc251 Size: 006d
+000cc251
+[8865][2033][0000]
+It looks like a cargo truck.[00][01ff]
+[8865][2033][0000]
+They must use it for transporting[80][23][80][4e]
+goods around the base.[00][ff00]
+
+Bloco: 000cc306 Size: 00a3
+000cc306
+[8865][2033][0000]
+Snake, why don't you try to hide in the[80][23][80][4e]
+truck? If you disguise yourself as part[80][23][80][4e]
+of the cargo, you might be able to use[80][23][80][4e]
+the truck to get around.[00][ff00]
+
+Bloco: 000cc3e9 Size: 0091
+000cc3e9
+[8865][2033][0000]
+That base must have some kind of[80][23][80][4e]
+ventilation system to recirculate the[80][23][80][4e]
+air. There should be air ducts around[80][23][80][4e]
+there somewhere.[00][ff00]
+
+Bloco: 000cc499 Size: 00dd
+000cc499
+[8865][2033][0000]
+They must need a lot of power to runó80][23][80][4e]
+the base. There's probably a diesel[80][23][80][4e]
+generator somewhere.[00][01ff]
+[8865][2033][0000]
+And since generating electricity[80][23][80][4e]
+requires oxygen, there must be[80][23][80][4e]
+exhaust openings for that too.[00][0000]
+
+Bloco: 000cc5a1 Size: 0148
+000cc5a1
+[8865][2033][0000]
+You're not going to believe this, but[80][23][80][4e]
+they shot down the F-16s we were[80][23][80][4e]
+using as a diversion....with a Hind D![80][23][80][4e]
+Then we got a message from Liquid.[00][01ff]
+[8865][2033][0000]
+He said if we try something like that[80][23][80][4e]
+again, he'll launch the nuke![00][01ff]
+[8865][2033][0000]
+Snake, hurry up and get in there![80][23][80][4e]
+That Hind will be coming back soon.[00][ff00]
+
+Bloco: 000cc727 Size: 006a
+000cc727
+[8865][2033][0000]
+Snake, you'll never be able to get[80][23][80][4e]
+through the front door. Find some[80][23][80][4e]
+other way to get in.[00][0000]
+
+Bloco: 000cc7dc Size: 006d
+000cc7dc;000d3d41;000db2a6;000e280b;000e9d70;000f12d5;000f883a;000ffd9f;001072f1
+[8865][2033][0000]
+Watch out for that surveillance[80][23][80][4e]
+camera. You can probably jam it[80][23][80][4e]
+temporarily with your Chaff.[00][0000]
+
+Bloco: 000cc85c Size: 007d
+000cc85c;000d3dc1;000db326;000e288b;000e9df0;000f1355;000f88ba;000ffe1f;00107371
+[8865][2033][0000]
+There should be a blind spot[80][23][80][4e]
+underneath that camera. You'll be[80][23][80][4e]
+okay if you stay flat up against[80][23][80][4e]
+the wall.[00][0000]
+
+Bloco: 00107940 Size: 006e
+00107940
+[8865][2033][0000]
+Don't make too much noise or you'll[80][23][80][4e]
+be spotted. Be careful when you're[80][23][80][4e]
+walking on that floor.[00][0000]
+
+Bloco: 001079dc Size: 00a7
+001079dc
+[8865][2033][0000]
+Use the elevator to change floors.[00][01ff]
+[8865][2033][0000]
+There should be a cargo elevator[80][23][80][4e]
+that you can take down somewhere[80][23][80][4e]
+around there.[00][01ff]
+[8865][2033][0000]
+Try to find it.[00][ff00]
+
+Bloco: 00107adc Size: 009a
+00107adc
+[8865][2033][0000]
+Even though the Genome Soldiers are[80][23][80][4e]
+strengthened by gene therapy, they[80][23][80][4e]
+still need to sleep. You can move[80][23][80][4e]
+safely while they're napping.[00][ff00]
+
+Bloco: 00107b96 Size: 00d1
+00107b96
+[7594][f321][0000]
+The Genome Soldiers were specially[80][23][80][4e]
+trained so they can enter into a light[80][23][80][4e]
+sleep any time and still remain inó80][23][80][4e]
+attack posture.[00][01ff]
+[7594][f321][0000]
+Be careful not to make noise whenó80][23][80][4e]
+you're near them.[00][06ff]
+
+Bloco: 00107c87 Size: 0096
+00107c87
+[8865][2033][0000]
+When they're yawning, their eyes are[80][23][80][4e]
+closed, so they shouldn't be able to[80][23][80][4e]
+see you. Be careful with your timing[80][23][80][4e]
+and you'll be okay.[00][ff00]
+
+Bloco: 00107d4b Size: 009a
+00107d4b
+[8865][2033][0000]
+Even though the Genome Soldiers are[80][23][80][4e]
+strengthened by gene therapy, they[80][23][80][4e]
+still need to sleep. You can move[80][23][80][4e]
+safely while they're napping.[00][0000]
+
+Bloco: 00107df8 Size: 0096
+00107df8
+[8865][2033][0000]
+When they're yawning, their eyes are[80][23][80][4e]
+closed, so they shouldn't be able to[80][23][80][4e]
+see you. Be careful with your timing[80][23][80][4e]
+and you'll be okay.[00][0000]
+
+Bloco: 00107ebe Size: 00df
+00107ebe
+[8865][2033][0000]
+Snake, use the elevator to move from[80][23][80][4e]
+floor to floor.[00][01ff]
+[8865][2033][0000]
+To call the elevator, press the buttonó80][23][80][4e]
+on the nearby control panel by[80][23][80][4e]
+pressing the Action Button. The[80][23][80][4e]
+elevator should show up in no time.[00][ff00]
+
+Bloco: 00107fd9 Size: 0095
+00107fd9
+[8865][2033][0000]
+Use the elevator to change floors. To[80][23][80][4e]
+select the floor you want to go to, use[80][23][80][4e]
+the control panel inside the elevator,[80][23][80][4e]
+on the left.[00][ff00]
+
+Bloco: 00108091 Size: 0096
+00108091
+[8865][2033][0000]
+Press up or down on the Directional[80][23][80][4e]
+Button to choose the floor. Then pressó80][23][80][4e]
+the Action Button to confirm or[80][23][80][4e]
+the X Button to cancel.[00][0000]
+
+Bloco: 00108139 Size: 009d
+00108139
+[8865][2033][0000]
+Press up or down on the Directional[80][23][80][4e]
+Button to choose the floor. Then pressó80][23][80][4e]
+the Action Button to confirm or pressó80][23][80][4e]
+the [90][1b] Button to cancel.[00][0000]
+
+Bloco: 001081e4 Size: 0057
+001081e4
+[8865][2033][0000]
+Be careful. The elevator won't work inó80][23][80][4e]
+either Alert Mode or Evasion Mode.[00][0000]
+
+Bloco: 00108267 Size: 0066
+00108267
+[8865][2033][0000]
+Hmm. It looks like the infrared sensorsó80][23][80][4e]
+that were set up here have beenó80][23][80][4e]
+switched off.[00][0000]
+
+Bloco: 001082f9 Size: 0030
+001082f9
+[8865][2033][0000]
+Press the Action Button to drop down.[00][0000]
+
+Bloco: 0010840e Size: 0073
+0010840e
+[8865][2033][0000]
+Snake, that door is protected by[80][23][80][4e]
+a security system. It won't openó80][23][80][4e]
+without the right security card.[00][0000]
+
+Bloco: 00108493 Size: 0085
+00108493;001086ce
+[8865][2033][0000]
+You can only open the door with[80][23][80][4e]
+a security card that's got the same or[80][23][80][4e]
+a higher security clearance thanó80][23][80][4e]
+the door.[00][0000]
+
+Bloco: 00108559 Size: 0073
+00108559
+[8865][2033][0000]
+Snake, that door is protected by[80][23][80][4e]
+a security system. It won't openó80][23][80][4e]
+without the right security card.[00][ff00]
+
+Bloco: 001085d8 Size: 00e4
+001085d8
+[8865][2033][0000]
+There must be some other way to get[80][23][80][4e]
+in. Take a look around. The best way[80][23][80][4e]
+to do that is to use [80][22]First Person View[80][23][80][4e]
+Mode.[80][22][00][01ff]
+[8865][2033][0000]
+Press the First Person View Button to[80][23][80][4e]
+go into [80][22]First Person View Mode.[80][22][00][0000]
+
+Bloco: 00108781 Size: 00b7
+00108781
+[8865][2033][0000]
+Snake, the DARPA Chief's signal isó80][23][80][4e]
+coming from somewhere in that area.[80][23][80][4e]
+Isn't there some place to drop down?[00][01ff]
+[8865][2033][0000]
+Take a look around in First Personó80][23][80][4e]
+View Mode.[00][ff00]
+
+Bloco: 00108874 Size: 006a
+00108874
+[8865][2033][0000]
+Snake, if you want to go up or downó80][23][80][4e]
+a ladder, just press the Action buttonó80][23][80][4e]
+by the ladder.[00][ff00]
+
+Bloco: 00108c8f Size: 0079
+00108c8f
+[8865][2033][0000]
+It looks like the place is protected by[80][23][80][4e]
+infrared sensors. Somehow you'll have[80][23][80][4e]
+to make it past the beams.[00][ff00]
+
+Bloco: 00108df9 Size: 0099
+00108df9
+[8865][2033][0000]
+Snake. Be careful. There are trap[80][23][80][4e]
+doors near there and the fall will kill[80][23][80][4e]
+you. Stay close up against the wall[80][23][80][4e]
+and you should be okay.[00][ff00]
+
+Bloco: 00108eb1 Size: 0064
+00108eb1
+[8865][2033][0000]
+You should be able to see where the[80][23][80][4e]
+trap doors are if you use your Thermal[80][23][80][4e]
+Goggles.[00][ff00]
+
+Bloco: 00108f66 Size: 0046
+00108f66
+[8865][2033][0000]
+If you've got a question about[80][23][80][4e]
+FOX-HOUND, ask Dr. Naomi.[00][06ff]
+
+Bloco: 00108fc0 Size: 02c6
+00108fc0
+[7594][f321][0400]
+Revolver Ocelot is a former member[80][23][80][4e]
+of Spetsnaz.[00][01ff]
+[7594][f321][0000]
+After the fall of the Soviet Union, he[80][23][80][4e]
+apparently served in the Russian Tax[80][23][80][4e]
+Police's elite swat team.[00][01ff]
+[7594][f321][0000]
+After that, he joined the SVR, the[80][23][80][4e]
+Russian Foreign Intelligence Agency,[80][23][80][4e]
+which was formerly a part of the KGB.[00][01ff]
+[7594][f321][0000]
+But according to my sources, he wasó80][23][80][4e]
+dissatisfied with the rigid system of[80][23][80][4e]
+the KGB and wanted to get out.[00][01ff]
+[7594][f321][0000]
+That's when he was recruited by[80][23][80][4e]
+FOX-HOUND.[00][01ff]
+[7594][f321][0000]
+He's a gun fanatic and totally[80][23][80][4e]
+obsessed with cowboy movies and[80][23][80][4e]
+spaghetti westerns.[00][01ff]
+[7594][f321][0000]
+He's also something of a sadist...he[80][23][80][4e]
+learned the most advanced torture[80][23][80][4e]
+techniques while he was with[80][23][80][4e]
+Spetsnaz.[00][06ff]
+
+Bloco: 0010929a Size: 0075
+0010929a
+[8865][2033][0400]
+Yeah, he had plenty of practice. The[80][23][80][4e]
+Lubianka Prison is located right there[80][23][80][4e]
+inside KGB headquarters.[00][ff00]
+
+Bloco: 0010931b Size: 014a
+0010931b
+[8865][2033][0000]
+In a gunfight, reloading is usually the[80][23][80][4e]
+most dangerous time. But he loves it.[80][23][80][4e]
+Use that to your advantage.[00][01ff]
+[8865][2033][0000]
+You'll have to take him out when he'só80][23][80][4e]
+reloading. Can you see where hisó80][23][80][4e]
+number of remaining bullets isó80][23][80][4e]
+displayed on the screen?[00][01ff]
+[8865][2033][0000]
+Wait for the right moment and thenó80][23][80][4e]
+take him out![00][ff00]
+
+Bloco: 00109499 Size: 00aa
+00109499
+[8865][2033][0000]
+Make sure President Baker doesn't[80][23][80][4e]
+get hurt. If he's killed, it's all over. [80][23][80][4e]
+Try not to cross over that yellow line or[80][23][80][4e]
+you might set off the explosion.[00][ff00]
+
+Bloco: 00109577 Size: 0041
+00109577
+[8865][2033][0000]
+You might also try to faze him with[80][23][80][4e]
+a Stun Grenade.[00][ff00]
+
+Bloco: 001095ec Size: 006b
+001095ec
+[8865][2033][0000]
+If you get too close to Ocelot, he'll runó80][23][80][4e]
+away and shoot you from distance.[80][23][80][4e]
+So be careful.[00][ff00]
+
+Bloco: 0010968b Size: 0083
+0010968b
+[8865][2033][0000]
+Don't forget that President Baker isó80][23][80][4e]
+there. He's wrapped up in C4, so[80][23][80][4e]
+don't use any type of explosive near[80][23][80][4e]
+him.[00][ff00]
+
+Bloco: 00109742 Size: 00aa
+00109742
+[8865][2033][0000]
+Make sure President Baker doesn't[80][23][80][4e]
+get hurt. If he's killed, it's all over. [80][23][80][4e]
+Try not to cross over that yellow line or[80][23][80][4e]
+you might set off the explosion.[00][0000]
+
+Bloco: 001097ff Size: 014a
+001097ff
+[8865][2033][0000]
+In a gunfight, reloading is usually the[80][23][80][4e]
+most dangerous time. But he loves it.[80][23][80][4e]
+Use that to your advantage.[00][01ff]
+[8865][2033][0000]
+You'll have to take him out when he'só80][23][80][4e]
+reloading. Can you see where hisó80][23][80][4e]
+number of remaining bullets isó80][23][80][4e]
+displayed on the screen?[00][01ff]
+[8865][2033][0000]
+Wait for the right moment and thenó80][23][80][4e]
+take him out![00][0000]
+
+Bloco: 0010995c Size: 0041
+0010995c
+[8865][2033][0000]
+You might also try to faze him with[80][23][80][4e]
+a Stun Grenade.[00][0000]
+
+Bloco: 001099b0 Size: 006b
+001099b0
+[8865][2033][0000]
+If you get too close to Ocelot, he'll runó80][23][80][4e]
+away and shoot you from distance.[80][23][80][4e]
+So be careful.[00][0000]
+
+Bloco: 00109a2e Size: 0083
+00109a2e
+[8865][2033][0000]
+Don't forget that President Baker isó80][23][80][4e]
+there. He's wrapped up in C4, so[80][23][80][4e]
+don't use any type of explosive near[80][23][80][4e]
+him.[00][0000]
+
+Bloco: 00109ae1 Size: 00c7
+00109ae1
+[8865][2033][0000]
+Snake, there are gun cameras set up[80][23][80][4e]
+there. If they detect you, they'll openó80][23][80][4e]
+fire.[00][01ff]
+[8865][2033][0000]
+Stay out of the cameras' field of vision.[80][23][80][4e]
+You could also try to jam them with[80][23][80][4e]
+Chaff.[00][0000]
+
+Bloco: 00109f1e Size: 004a
+00109f1e
+[8865][2033][0000]
+Snake, you'll have to go through [80][23][80][4e]
+the mine field to advance.[00][ff00]
+
+Bloco: 00109fb0 Size: 0090
+00109fb0
+[8865][2033][0000]
+A minefield, huh.[80][23][80][4e]
+You'll need a Mine Detector.[00][01ff]
+[8865][2033][0000]
+Meryl knows the base like the back of[80][23][80][4e]
+her hand. Why don't you ask her?[00][0000]
+
+Bloco: 0010a052 Size: 009d
+0010a052
+[8865][2033][0000]
+A mine field, huh. Don't forget to use[80][23][80][4e]
+your mine detector.[00][01ff]
+[8865][2033][0000]
+When you find out where a mine is,[80][23][80][4e]
+crawl forward and try to recover it.[00][0000]
+
+Bloco: 0010a3bb Size: 004b
+0010a3bb
+[8865][2033][0000]
+Be careful. You absolutely must not[80][23][80][4e]
+use weapons in that area.[00][ff00]
+
+Bloco: 0010a913 Size: 002c
+0010a913
+[ca21][3bf7][0000]
+Colonel, I saw your niece, but...[00][03ff]
+
+Bloco: 0010a949 Size: 0096
+0010a949
+[8865][2033][0400]
+Really? Where?[00][01ff]
+[ca21][3bf7][0000]
+She went in the ladies' bathroom.[00][01ff]
+[ca21][3bf7][0000]
+That's strange. I saw her go in, but[80][23][80][4e]
+now she's nowhere to be found.[00][ff00]
+
+Bloco: 0010a9fd Size: 0078
+0010a9fd
+[8865][2033][0000]
+You'll just have to look in the stalls,[80][23][80][4e]
+I guess.[00][01ff]
+[ca21][3bf7][0000]
+I guess you're right.[80][23][80][4e]
+I'll take em in order.[00][0000]
+
+Bloco: 0010ee1c Size: 007d
+0010ee1c;0010f55a;0010f757
+[8865][2033][0000]
+The guard is only human. He has to[80][23][80][4e]
+sleep and go to the bathroom like the[80][23][80][4e]
+rest of us. That'll be your chance.[00][0000]
+
+Bloco: 0010eeac Size: 004a
+0010eeac;0010f5ea;0010f7e7
+[8865][2033][0000]
+Snake, don't worry. You'll have[80][23][80][4e]
+a chance to escape. Hang on.[00][0000]
+
+Bloco: 0010ef3a Size: 00d7
+0010ef3a
+[8865][2033][0000]
+I don't know how, but the door is open.[00][01ff]
+[ca21][7e0b][0000]
+I saw the silhouette of someone inó80][23][80][4e]
+stealth cammies...[00][01ff]
+[8865][2033][0000]
+Stealth camouflage? Could it be[80][23][80][4e]
+Emmerich?[00][01ff]
+[ca21][7e0b][0000]
+No, I don't think it was Otacon.[00][03ff]
+
+Bloco: 0010f01b Size: 006c
+0010f01b
+[8865][2033][0400]
+So who then?.....You don't think it[80][23][80][4e]
+could be Gray Fox?[00][01ff]
+[ca21][7e0b][0000]
+Yeah, I do. I think it was...[00][06ff]
+
+Bloco: 0010f09b Size: 0091
+0010f09b
+[7594][f321][0400]
+...Are you saying that he came to save[80][23][80][4e]
+his friend?[00][01ff]
+[ca21][7e0b][0000]
+Could be. Or maybe he just doesn't[80][23][80][4e]
+want me to die in a prison cell.[00][03ff]
+
+Bloco: 0010f136 Size: 004b
+0010f136
+[7594][17fd][0600]
+...I don't know. I can't imagine what he[80][23][80][4e]
+could be thinking...[00][ff00]
+
+Bloco: 0010f1bd Size: 004d
+0010f1bd;0010f402
+[8865][2033][0000]
+Snake, you can worry about it later.[80][23][80][4e]
+Now is the time to escape.[00][0000]
+
+Bloco: 0010f232 Size: 00a0
+0010f232
+[8865][2033][0000]
+Great job with the guard, Snake.[80][23][80][4e]
+Now is your chance to escape.[00][01ff]
+[ca21][7e0b][0000]
+I plan on it. Next time I meet Ocelot,[80][23][80][4e]
+it's going to be on my terms...[00][ff00]
+
+Bloco: 0010f30f Size: 0074
+0010f30f
+[7594][76b1][0400]
+How do you feel, Snake?[80][23][80][4e]
+Can you go on?[00][01ff]
+[ca21][7e0b][0000]
+Yeah. Don't worry. That sadist can't[80][23][80][4e]
+keep me down.[00][0000]
+
+Bloco: 0010f397 Size: 0032
+0010f397
+[8865][2033][0000]
+Snake.[80][23][80][4e]
+Now is your chance to escape.[00][0000]
+
+Bloco: 0010f483 Size: 0054
+0010f483
+[8865][2033][0000]
+The ketchup! You might be able to[80][23][80][4e]
+trick the guard if you use it right.[00][06ff]
+
+Bloco: 0010f4eb Size: 0050
+0010f4eb
+[7594][f321][0400]
+Snake, why don't you use the ketchup[80][23][80][4e]
+and pretend that you're dead?[00][0000]
+
+Bloco: 0010f656 Size: 00a4
+0010f656
+[8865][2033][0000]
+Snake, that's a prison cell. You can't[80][23][80][4e]
+open the door from the inside.[80][23][80][4e]
+Somehow you'll have to get the key[80][23][80][4e]
+off the guard.[00][01ff]
+[ca21][7e0b][0000]
+Yeah, but how?[00][06ff]
+
+Bloco: 0010f70e Size: 002a
+0010f70e
+[7594][f321][0000]
+Why don't you try disappearing?[00][0000]
+
+Bloco: 0010f8bb Size: 003d
+0010f8bb
+[7594][f321][0400]
+They're probably being kept[80][23][80][4e]
+somewhere close by.[00][ff00]
+
+Bloco: 0010f96e Size: 0023
+0010f96e
+[ca21][3bf7][0000]
+I made it to the bottom.[00][ff00]
+
+Bloco: 0010f9b0 Size: 0047
+0010f9b0
+[7594][76b1][0600]
+Thank God you're okay. I was terrified[80][23][80][4e]
+just watching you.[00][0000]
+
+Bloco: 0010fa09 Size: 0024
+0010fa09
+[7594][df9c][0600]
+You're incredible, Snake.[00][0000]
+
+Bloco: 0010fa8a Size: 0057
+0010fa8a;00111a91
+[8865][2033][0000]
+Snake, why don't you try the door that[80][23][80][4e]
+leads from the walkway to Tower A?[00][0000]
+
+Bloco: 0011190e Size: 0055
+0011190e
+[7594][f321][0000]
+Snake, you're under attack from[80][23][80][4e]
+off-screen.[00][01ff]
+[ca21][3bf7][0000]
+What should I do?[00][ff00]
+
+Bloco: 0011199f Size: 00c3
+0011199f
+[8865][2033][0000]
+First find out where the enemy is.[80][23][80][4e]
+Use your binoculars.[00][01ff]
+[8865][2033][0000]
+Then attack with a PSG-1 or Remote[80][23][80][4e]
+Controlled Missile. Something with a[80][23][80][4e]
+longer range than an ordinary weapon.[00][0000]
+
+Bloco: 0011287e Size: 006c
+0011287e
+[ca21][23ae][0400]
+What's this pile of corpses...!?[80][23][80][4e]
+It looks like they were all slashed by[80][23][80][4e]
+some kind of sword.[00][06ff]
+
+Bloco: 00112912 Size: 002e
+00112912
+[7594][f321][0600]
+It couldn't be!...[00][01ff]
+[ca21][23ae][0000]
+What!?[00][03ff]
+
+Bloco: 0011294a Size: 001d
+0011294a
+[7594][17fd][0600]
+...uh nothing.....[00][ff00]
+
+Bloco: 001129a3 Size: 0049
+001129a3
+[8865][2033][0400]
+Snake, I'm worried about Emmerich.[80][23][80][4e]
+Hurry up and get to him![00][0000]
+
+Bloco: 00112a18 Size: 0071
+00112a18
+[8865][2033][0000]
+Snake, be careful. You won't be able[80][23][80][4e]
+to control your missile in an area with[80][23][80][4e]
+electronic jamming.[00][0000]
+
+Bloco: 00113a48 Size: 0060
+00113a48
+[8865][2033][0000]
+Snake, isn't that the elevator[80][23][80][4e]
+that goes down to Metal Gear'só80][23][80][4e]
+underground base?[00][ff00]
+
+Bloco: 00113ac7 Size: 006b
+00113ac7
+[ca21][3bf7][0000]
+Yeah, but there's no button for calling[80][23][80][4e]
+the elevator.[00][01ff]
+[8865][2033][0000]
+Maybe it'll come if you wait.[00][06ff]
+
+Bloco: 00113b46 Size: 002a
+00113b46
+[7594][f321][0400]
+Why don't you ask Dr. Emmerich?[00][ff00]
+
+Bloco: 00113bae Size: 0094
+00113bae
+[8865][2033][0000]
+Watch out for the steam.[80][23][80][4e]
+It's dangerous. Use your First Personó80][23][80][4e]
+View Mode to see where the steam isó80][23][80][4e]
+coming out and then avoid it.[00][ff00]
+
+Bloco: 00113c61 Size: 0046
+00113c61
+[ca21][3bf7][0000]
+Yeah. I like a sauna now and then,[80][23][80][4e]
+but this is too much.[00][ff00]
+
+Bloco: 00113df6 Size: 0078
+00113df6
+[8865][2033][0400]
+First go to the elevator in the back[80][23][80][4e]
+and take it up to the ground floor.[80][23][80][4e]
+Then look for the DARPA Chief.[00][0000]
+
+Bloco: 00113ead Size: 017a
+00113ead;0012366b
+[af33][8d15][0000]
+That M1 tank is equipped with[80][23][80][4e]
+advanced vetronics.[80][23][80][4e]
+Once it locks on to a target, it[80][23][80][4e]
+automatically tracks it,[00][01ff]
+[af33][8d15][0000]
+and its main gun is effective up to[80][23][80][4e]
+3000 meters.[00][01ff]
+[af33][8d15][0000]
+To get close, you'll have to confuse[80][23][80][4e]
+its tracking system. Use your Chaff.[00][01ff]
+[af33][8d15][0000]
+If you can jam the system and get[80][23][80][4e]
+close enough, it won't be able to use[80][23][80][4e]
+its main gun.[00][ff00]
+
+Bloco: 00114033 Size: 004f
+00114033;001237f1
+[af33][8d15][0000]
+Use your Chaff at a long distance to[80][23][80][4e]
+fool its electronic systems.[00][ff00]
+
+Bloco: 001140b0 Size: 01ab
+001140b0;0012386e
+[af33][8d15][0000]
+Even if you can get close, the M1[80][23][80][4e]
+tank's maximum speed is 45 miles per[80][23][80][4e]
+hour. First, you'll have to slow it down.[00][01ff]
+[af33][8d15][0000]
+Go after its caterpillars with C4 or[80][23][80][4e]
+Grenades.[00][01ff]
+[af33][8d15][0000]
+Once it slows down, toss a Grenade inó80][23][80][4e]
+the commander's turret.[00][01ff]
+[af33][8d15][0000]
+The M1 has exceptionally strong[80][23][80][4e]
+armor.[00][01ff]
+[af33][8d15][0000]
+With your weapons, the only way to[80][23][80][4e]
+beat it is to attack the soldiers inside[80][23][80][4e]
+through the hatch.[00][ff00]
+
+Bloco: 00114267 Size: 003f
+00114267;00123a25
+[af33][8d15][0000]
+Try to aim at the upper hatch with your[80][23][80][4e]
+grenades.[00][ff00]
+
+Bloco: 001142d4 Size: 004f
+001142d4;001143a5;00123a92
+[af33][8d15][0000]
+Use your Chaff at a long distance to[80][23][80][4e]
+fool its electronic systems.[00][0000]
+
+Bloco: 00114336 Size: 003f
+00114336;00123af4
+[af33][8d15][0000]
+Try to aim at the upper hatch with your[80][23][80][4e]
+grenades.[00][0000]
+
+Bloco: 00114430 Size: 0062
+00114430;00144308;00144e6b
+[af33][8d15][0000]
+You have Stinger missiles. Now you[80][23][80][4e]
+have at least got a chance against[80][23][80][4e]
+the Hind...[00][ff00]
+
+Bloco: 001144b1 Size: 01cc
+001144b1;00144389;00144eec
+[ca21][3bf7][0000]
+Only a chance?[00][01ff]
+[af33][8d15][0000]
+Well you are not exactly evenly[80][23][80][4e]
+armed.[00][01ff]
+[af33][8d15][0000]
+That Hind is a monster. You have only[80][23][80][4e]
+a small chance to win, but at least[80][23][80][4e]
+it's better than no chance...[00][01ff]
+[ca21][3bf7][0000]
+That's a pretty grim analysis,[80][23][80][4e]
+Nastasha.[00][01ff]
+[af33][8d15][0000]
+To shoot down that Hind, you will[80][23][80][4e]
+have to get to a place with good[80][23][80][4e]
+visibility.[00][01ff]
+[af33][8d15][0000]
+Do not try to fight in that walkway. Get[80][23][80][4e]
+up on that roof where you will have a[80][23][80][4e]
+clean shot at him.[00][ff00]
+
+Bloco: 00114726 Size: 0056
+00114726;00119719;00123002;0012d82c;001398e4;001437d0;0014f2dc;0015a327;00166969;00171078;001717f9;00176801;00176f82;0017bf8a;0017c70b;00181713;00181e94;00186e9c;0018761d;0018c625;0018cda6;00191dae;0019252f;00197539;00197cba;0019ccb1;0019d438;0019dd5e;0019e566;0019eda4;001a3cb7;001a599c;001a6183;001a6a1c;001a7383;001a7c9c;001a83f7;001a8a8d;001a938d;001a9b62
+[af33][8d15][0000]
+This is Nastasha Romanenko.[80][23][80][4e]
+A pleasure to work with you,[80][23][80][4e]
+Solid Snake.[00][10ff]
+
+Bloco: 001147ae Size: 0047
+001147ae;001197a1;0012308a;0012d8b4;0013996c;00143858;0014f364;0015a3af;001669f1;00171100;00171881;00176889;0017700a;0017c012;0017c793;0018179b;00181f1c;00186f24;001876a5;0018c6ad;0018ce2e;00191e36;001925b7;001975c1;00197d42;0019cd39;0019d4c0;0019dde6;0019e5ee;0019ee2c;001a3d3f;001a5a24;001a620b;001a6aa4;001a740b;001a7d24;001a847f;001a8b15;001a9415;001a9bea
+[ca21][7e0b][0000]
+You're the nuclear specialist that the[80][23][80][4e]
+Colonel mentioned?[00][ff00]
+
+Bloco: 001147fb Size: 0047
+001147fb;001197ee;001230d7;0012d901;001399b9;001438a5;0014f3b1;0015a3fc;00166a3e;0017114d;001718ce;001768d6;00177057;0017c05f;0017c7e0;001817e8;00181f69;00186f71;001876f2;0018c6fa;0018ce7b;00191e83;00192604;0019760e;00197d8f;0019cd86;0019d50d;0019de33;0019e63b;0019ee79;001a3d8c;001a5a71;001a6258;001a6af1;001a7458;001a7d71;001a84cc;001a8b62;001a9462;001a9c37
+[ca21][3bf7][0000]
+You're the nuclear specialist that the[80][23][80][4e]
+Colonel mentioned?[00][0000]
+
+Bloco: 00114844 Size: 01d0
+00114844;00119837;00123120;0012d94a;00139a02;001438ee;0014f3fa;0015a445;00166a87;00171196;00171917;0017691f;001770a0;0017c0a8;0017c829;00181831;00181fb2;00186fba;0018773b;0018c743;0018cec4;00191ecc;0019264d;00197657;00197dd8;0019cdcf;0019d556;0019de7c;0019e684;0019eec2;001a3dd5;001a5aba;001a62a1;001a6b3a;001a74a1;001a7dba;001a8515;001a8bab;001a94ab;001a9c80
+[af33][8d15][0000]
+That's me.[80][23][80][4e]
+You can ask me anything about nukesó80][23][80][4e]
+that you want.[00][01ff]
+[af33][8d15][0000]
+I am also a military analyst, so I have[80][23][80][4e]
+an extensive knowledge of weaponó80][23][80][4e]
+systems as well.[00][01ff]
+[af33][8d15][0000]
+They asked me to participate in thisó80][23][80][4e]
+operation as a supervisor from the[80][23][80][4e]
+Nuclear Emergency Search Team.[80][23][80][4e]
+I was happy to accept.[00][01ff]
+[af33][c340][0400]
+We must not allow terrorists to get[80][23][80][4e]
+their hands on nuclear weapons of any[80][23][80][4e]
+kind. I hope I can help you to stop[80][23][80][4e]
+them.[00][10ff]
+
+Bloco: 00114a46 Size: 001f
+00114a46;00119a39;00123322;0012db4c;00139c04;00143af0;0014f5fc;0015a647;00166c89;00171398;00171b19;00176b21;001772a2;0017c2aa;0017ca2b;00181a33;001821b4;001871bc;0018793d;0018c945;0018d0c6;001920ce;0019284f;00197859;00197fda;0019cfd1;0019d758;0019e07e;0019e886;0019f0c4;001a3fd7;001a5cbc;001a64a3;001a6d3c;001a76a3;001a7fbc;001a8717;001a8dad;001a96ad;001a9e82
+[ca21][7e0b][0000]
+You're a tough lady.[00][ff00]
+
+Bloco: 00114a6b Size: 001f
+00114a6b;00119a5e;00123347;0012db71;00139c29;00143b15;0014f621;0015a66c;00166cae;001713bd;00171b3e;00176b46;001772c7;0017c2cf;0017ca50;00181a58;001821d9;001871e1;00187962;0018c96a;0018d0eb;001920f3;00192874;0019787e;00197fff;0019cff6;0019d77d;0019e0a3;0019e8ab;0019f0e9;001a3ffc;001a5ce1;001a64c8;001a6d61;001a76c8;001a7fe1;001a873c;001a8dd2;001a96d2;001a9ea7
+[ca21][3bf7][0000]
+You're a tough lady.[00][0000]
+
+Bloco: 00114a8c Size: 0100
+00114a8c;00119a7f;00123368;0012db92;00139c4a;00143b36;0014f642;0015a68d;00166ccf;001713de;00171b5f;00176b67;001772e8;0017c2f0;0017ca71;00181a79;001821fa;00187202;00187983;0018c98b;0018d10c;00192114;00192895;0019789f;00198020;0019d017;0019d79e;0019e0c4;0019e8cc;0019f10a;001a401d;001a5d02;001a64e9;001a6d82;001a76e9;001a8002;001a875d;001a8df3;001a96f3;001a9ec8
+[af33][c340][0000]
+Those terrorists are serious about[80][23][80][4e]
+launching a nuclear weapon?[00][01ff]
+[af33][c340][0000]
+The world cannot stand by idly and[80][23][80][4e]
+allow that to happen.[80][23][80][4e]
+And neither can I...[00][01ff]
+[af33][8d15][0a00]
+Unfortunately, all I can do from here isó80][23][80][4e]
+provide you with information...[00][10ff]
+
+Bloco: 00114bbe Size: 008e
+00114bbe;00119bb1;0012349a;0012dcc4;00139d7c;00143c68;0014f774;0015a7bf;00166e01;00171510;00171c91;00176c99;0017741a;0017c422;0017cba3;00181bab;0018232c;00187334;00187ab5;0018cabd;0018d23e;00192246;001929c7;001979d1;00198152;0019d149;0019d8d0;0019e1f6;0019e9fe;0019f23c;001a414f;001a5e34;001a661b;001a6eb4;001a781b;001a8134;001a888f;001a8f25;001a9825;001a9ffa
+[ca21][7e0b][0000]
+Hopefully that'll be enough. Another[80][23][80][4e]
+soldier here wouldn't make a[80][23][80][4e]
+difference anyway. It's good to work[80][23][80][4e]
+with you, Nastasha.[00][ff00]
+
+Bloco: 00114c52 Size: 008e
+00114c52;00119c45;0012352e;0012dd58;00139e10;00143cfc;0014f808;0015a853;00166e95;001715a4;00171d25;00176d2d;001774ae;0017c4b6;0017cc37;00181c3f;001823c0;001873c8;00187b49;0018cb51;0018d2d2;001922da;00192a5b;00197a65;001981e6;0019d1dd;0019d964;0019e28a;0019ea92;0019f2d0;001a41e3;001a5ec8;001a66af;001a6f48;001a78af;001a81c8;001a8923;001a8fb9;001a98b9;001aa08e
+[ca21][2872][0600]
+Hopefully that'll be enough. Another[80][23][80][4e]
+soldier here wouldn't make a[80][23][80][4e]
+difference anyway. It's good to work[80][23][80][4e]
+with you, Nastasha.[00][0000]
+
+Bloco: 00114ce2 Size: 001c
+00114ce2;00119cd5;001235be;0012dde8;00139ea0;00143d8c;0014f898;0015a8e3;00166f25;00171634;00171db5;00176dbd;0017753e;0017c546;0017ccc7;00181ccf;00182450;00187458;00187bd9;0018cbe1;0018d362;0019236a;00192aeb;00197af5;00198276;0019d26d;0019d9f4;0019e31a;0019eb22;0019f360;001a4273;001a5f58;001a673f;001a6fd8;001a793f;001a8258;001a89b3;001a9049;001a9949;001aa11e
+[af33][7990][0800]
+Same here, Snake.[00][04ff]
+
+Bloco: 00114d83 Size: 0653
+00114d83;00119d76;00123e4e;0012e31e;0013a014;001450fb;0015005c;0015366f;0015bac8;0016805b;00171e56;001775df;0017cd68;001824f1;00187c7a;0018d403;00192b8c;00198317
+[af33][8d15][0000]
+As long as the strategy of nuclear[80][23][80][4e]
+deterrence continues, nuclear[80][23][80][4e]
+weapons may be reduced, but[80][23][80][4e]
+they will never be eliminated.[00][01ff]
+[af33][c340][0400]
+If you think about it, nuclear reductionó80][23][80][4e]
+does not mean much without[80][23][80][4e]
+elimination as the ultimate goal.[00][01ff]
+[af33][c340][0000]
+I used to work in the DIA (Defense[80][23][80][4e]
+Intelligence Agency). I figured the[80][23][80][4e]
+only way to achieve nuclear[80][23][80][4e]
+elimination...[00][01ff]
+[af33][c340][0000]
+...was to work from the inside to[80][23][80][4e]
+convince them of the ineffectivenessó80][23][80][4e]
+of the deterrence theory.[00][01ff]
+[ca21][3bf7][0000]
+Seems like you're pretty focused onó80][23][80][4e]
+that issue.[00][01ff]
+[af33][8d15][0800]
+...Victims of nuclear radiation are a sad[80][23][80][4e]
+thing to see...and I have seen a lot of[80][23][80][4e]
+it.[00][01ff]
+[af33][411e][0800]
+...I have seen more than enough of it...[00][01ff]
+[ca21][3bf7][0000]
+?[00][01ff]
+[af33][411e][0000]
+I was born and raised in Prypiat,[80][23][80][4e]
+Ukraine. I was 10 years old on that[80][23][80][4e]
+day...April 26, 1986.[00][01ff]
+[ca21][3bf7][0000]
+You don't mean...[00][01ff]
+[af33][411e][0000]
+Yes. Chernobyl. That is the day that[80][23][80][4e]
+changed my life and thousands of[80][23][80][4e]
+other lives. I lived just three[80][23][80][4e]
+kilometers north of there.[00][01ff]
+[ca21][3bf7][0000]
+..........[00][01ff]
+[af33][411e][0000]
+600,000-700,000 people were[80][23][80][4e]
+evacuated. Over 650,000 childrenó80][23][80][4e]
+suffered the effects of radiationó80][23][80][4e]
+poisoning.[00][01ff]
+[af33][411e][0000]
+Between 1986 and 1993,[80][23][80][4e]
+12,000 children died...[00][01ff]
+[af33][411e][0000]
+My parents, and many others like[80][23][80][4e]
+them who helped in the cleanup,[80][23][80][4e]
+died a few years later from radiationó80][23][80][4e]
+sickness.[00][01ff]
+[af33][8d15][0800]
+We must rid this world of all nuclear[80][23][80][4e]
+weapons...before they cause more[80][23][80][4e]
+misery.[00][01ff]
+[af33][8d15][0000]
+Before they destroy the delicate[80][23][80][4e]
+environment that keeps us alive.[00][01ff]
+[af33][8d15][0000]
+I will not allow this pain and anxiety to[80][23][80][4e]
+pass on to yet another generation.[00][ff00]
+
+Bloco: 0011541b Size: 0161
+0011541b;0011a40e;001244e6;0012e9b6;0013a6ac;00145793;001506f4;0015c160;001686f3;001724ee;00177c77;0017d400;00182b89;00188312;0018da9b;00193224;001989af;001a018c
+[af33][8d15][0000]
+The area is filled with gas. Probably[80][23][80][4e]
+an organophosphate nerve agent like[80][23][80][4e]
+Soman or something similar.[00][01ff]
+[af33][8d15][0000]
+Well, your Sneaking Suit gives you[80][23][80][4e]
+some protection. Also, your[80][23][80][4e]
+nanomachines contain anti-BC[80][23][80][4e]
+neutralizing agents, so...[00][01ff]
+[af33][8d15][0000]
+...you should be okay for a short[80][23][80][4e]
+time. But what you really need is [80][23][80][4e]
+a Gas Mask.[00][ff00]
+
+Bloco: 0011559b Size: 016a
+0011559b;0011a58e;00124666;0012eb36;0013a82c;00145913;00150874;0015c2e0;00168873;0017266e;00177df7;0017d580;00182d09;00188492;0018dc1b;001933a4;00198b2f;001a030c
+[af33][8d15][0000]
+An organophosphate nerve agent is a[80][23][80][4e]
+gas which invades an animal's nerves.[00][01ff]
+[af33][8d15][0000]
+It was first used as a weapon in World[80][23][80][4e]
+War II, and the casualties resulting[80][23][80][4e]
+from it were tremendous.[00][01ff]
+[af33][8d15][0000]
+In its pure form, it is a colorless,[80][23][80][4e]
+odorless gas. That gas was probably[80][23][80][4e]
+colored yellow to make it easier to[80][23][80][4e]
+detect in the case of a leak.[00][ff00]
+
+Bloco: 0011574f Size: 0055
+0011574f;0011a742;0012481a;0012ecea;0013a9e0;00145ac7;00150a28;0015c494;00168a27;00172822;00177fab;0017d734;00182ebd;00188646;0018ddcf;00193558;00198ce3
+[af33][7990][0800]
+It sounds like you have a bad cold.[80][23][80][4e]
+You had better try to shake it off.[00][ff00]
+
+Bloco: 001157ec Size: 0286
+001157ec;0011a7df;001248b7;0012ed87;0013aa7d;00150ac5;0015c531;00168ac4;001728bf;00178048;0017d7d1;00182f5a;001886e3;0018de6c;001935f5;00198d80;001a0523
+[af33][8d15][0000]
+Harasho...good![80][23][80][4e]
+You found a SOCOM. That's a Special[80][23][80][4e]
+Operations Command Pistol.[00][01ff]
+[af33][8d15][0000]
+It's a .45 caliber pistol with plenty of[80][23][80][4e]
+stopping power.[80][23][80][4e]
+It's also equipped with a LAM (Laser[80][23][80][4e]
+Aiming Module) for night-time combat.[00][01ff]
+[af33][8d15][0000]
+If you hold down the Weapon Button,[80][23][80][4e]
+you can train the laser sight on the[80][23][80][4e]
+enemy to help you aim.[00][01ff]
+[af33][8d15][0000]
+If you find a SOCOM suppressor,[80][23][80][4e]
+you can equip that, too.[00][01ff]
+[af33][8d15][0000]
+That pistol was designed specifically[80][23][80][4e]
+for use by special forces, so I think it[80][23][80][4e]
+will be useful.[00][01ff]
+[af33][8d15][0000]
+Some people find it a little heavy and[80][23][80][4e]
+hard to use, but it shouldn't be[80][23][80][4e]
+a problem for you.[00][ff00]
+
+Bloco: 00115aba Size: 01de
+00115aba;0011aaad;00124b85;0012f055;0013ad4b;00145e85;00150d93;0015c7ff;00168d92;00172b8d;00178316;0017da9f;00183228;001889b1;0018e13a;001938c3;0019904e;001a07e1
+[af33][8d15][0000]
+Those are Stun Grenades.[80][23][80][4e]
+They are often used in sensitive[80][23][80][4e]
+operations such as freeing hostagesó80][23][80][4e]
+and that sort of thing.[00][01ff]
+[af33][8d15][0000]
+Sometimes they are called [80][22]flash[80][23][80][4e]
+bangsó80][22] or  [80][22]sound and flash[80][23][80][4e]
+grenades.[80][22][00][01ff]
+[af33][8d15][0000]
+They make a big flash and lots of[80][23][80][4e]
+noise which will disorient and disable[80][23][80][4e]
+your opponents temporarily.[00][01ff]
+[af33][8d15][0000]
+You have to understand that they[80][23][80][4e]
+won't kill the bad guys, but just stunó80][23][80][4e]
+them for a few seconds.[80][23][80][4e]
+Use them wisely.[00][ff00]
+
+Bloco: 00115ce0 Size: 01c6
+00115ce0;001460ab;00150fb9;0015ca25;00168fb8;00172db3;0017853c;0017dcc5;0018344e;00188bd7;0018e360;00193ae9;00199274;001a09f7
+[af33][8d15][0000]
+Essa é uma Granada Chaff. ] uma[80][23][80][4e]
+granada especial que dispersa finasó80][23][80][4e]
+tiras metálicas estreitas de váriosó80][23][80][4e]
+comprimentos retardando frequências.[00][01ff]
+[af33][8d15][0000]
+Ela pode confundir equipamentosó80][23][80][4e]
+eletronicos.[00][01ff]
+[af33][8d15][0000]
+Ela será [til contra máquinas que[80][23][80][4e]
+depende de sensores eletronicos.[00][01ff]
+[af33][8d15][0000]
+Naturalmente para que ela seja eficaz,[80][23][80][4e]
+você deve usá-la antes de ser atacado.[80][23][80][4e]
+Se você está esperando um ataque[80][23][80][4e]
+jogue a Chaff de antemão.[00][ff00]
+
+Bloco: 00115eee Size: 00cb
+00115eee;0011aee2;00124fba;0012f48a;001462b9;001511c7;0015cc33;001691c6;00172fc1;0017874a;0017ded3;0018365c;00188de5;0018e56e;00193cf7;00199482;001a0bf5
+[af33][8d15][0000]
+You found some Grenades. Just pull[80][23][80][4e]
+the pin and it explodes after five[80][23][80][4e]
+seconds.[00][01ff]
+[af33][8d15][0000]
+You can get a lot done during those[80][23][80][4e]
+five seconds, Snake.[80][23][80][4e]
+How you use them is up to you.[80][23][80][4e]
+[00][ff00]
+
+Bloco: 00116001 Size: 02c4
+00116001;0011aff5;001250cd;0012f59d;001463cc;001512da;0015cd46;001692d9;001730d4;0017885d;0017dfe6;0018376f;00188ef8;0018e681;00193e0a;00199595;001a0cf8
+[af33][8d15][0000]
+That is C4 explosive.[80][23][80][4e]
+A plastic explosive with a texture[80][23][80][4e]
+similar to clay, so you can shape it[80][23][80][4e]
+in almost any way you want.[00][01ff]
+[af33][8d15][0000]
+Although it has 1.4 times the[80][23][80][4e]
+destructive power of dynamite,[00][01ff]
+[af33][8d15][0000]
+it is highly stable and won't explode[80][23][80][4e]
+without a detonating device, even if it[80][23][80][4e]
+is shot, burned or beaten.[00][01ff]
+[af33][8d15][0000]
+You are using a wirelessó80][23][80][4e]
+detonator, yes?[00][01ff]
+[af33][8d15][0000]
+The detonator is equipped with a[80][23][80][4e]
+scrambler so you don't have to worry[80][23][80][4e]
+about interference from any other[80][23][80][4e]
+radio source.[00][01ff]
+[af33][8d15][0000]
+Make sure you are sufficiently far[80][23][80][4e]
+enough away when it goes off.[00][01ff]
+[af33][8d15][0000]
+Also, as you know, the sound of the[80][23][80][4e]
+explosive will alert your enemies, [80][23][80][4e]
+so be careful.[00][ff00]
+
+Bloco: 0011630d Size: 013d
+0011630d;0011b301;001253d9;0012f8a9;001466d8;001515e6;0015d052;001695e5;001733e0;00178b69;
